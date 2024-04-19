@@ -1,0 +1,1 @@
+return { { 'eliseshaffer/darklight.nvim' } }
